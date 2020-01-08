@@ -1,7 +1,7 @@
 [
 {"id":"1","code":"1","name":"Adrar", "ar_name":"أدرار", "longitude":"27.9766155", "latitude":"-0.20396"}, 
-{"id":"2","code":"2","name":"Chlef", "ar_name":"الشلف", "longitude":"36.1691245", "latitude":"1.3539002"}, 
-{"id":"3","code":"3","name":"Laghouat", "ar_name":"الأغواط", "longitude":"33.7873735", "latitude":"2.8829115"}, 
+{"id":"2","code":"2","name":"Chlef", "ar_name":"الشلف", "longitude":"36.1646518", "latitude":"1.3383152"}, 
+{"id":"3","code":"3","name":"Laghouat", "ar_name":"الأغواط", "longitude":"33.8080332", "latitude":"2.8613457"}, 
 {"id":"4","code":"4","name":"Oum El Bouaghi", "ar_name":"أم البواقي", "longitude":"35.8726014", "latitude":"7.1180248"},
 {"id":"5","code":"5","name":"Batna", "ar_name":"باتنة", "longitude":"35.32147", "latitude":"3.1066502"},
 {"id":"6","code":"6","name":"Béjaïa", "ar_name":"بجاية", "longitude":"36.7695969", "latitude":"5.0085855"},
